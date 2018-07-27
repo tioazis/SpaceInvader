@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4ad34404d076ce440955979317e41963
+timeCreated: 1480922601
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pixelmix bold
+  fontNames:
+  - pixelmix bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

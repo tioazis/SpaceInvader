@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ArduinoPesawat.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ArduinoControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PeluruHero.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Pesawat.cs" Line="103" Column="1" />
+      <File FileName="Assets\Scripts\PeluruMusuh.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PindahScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ArduinoPesawat.cs" Line="48" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\PENS\COLLEGE COURSE\Kelas 3\SEMESTER 5\#KERJAPRAKTIK\Space Invader_Azis\Assets\Scripts\Pesawat.cs" line="103" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
